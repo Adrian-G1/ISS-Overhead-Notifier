@@ -12,6 +12,8 @@ import datetime as dt
 #
 # print(iss_position)
 
+# Position is within +/- 5 degrees of ISS Station
+
 # Params testing
 MY_LAT = 33.603619
 MY_LONG = -101.969048
